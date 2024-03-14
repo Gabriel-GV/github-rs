@@ -4,7 +4,7 @@ Este documento describe los casos de prueba para el script de Python desarrollad
 
 Los casos de prueba se han diseñado teniendo en cuenta las diferentes funcionalidades del script así como los posibles errores que puedan surgir.
 
-El script ...
+El script permite ...
 
 Los casos de prueba cubren las características clave del programa y prueban varias condiciones para garantizar la robustez y fiabilidad del script.
 
@@ -31,6 +31,12 @@ A continuación, presentamos los detalles de los casos de prueba. Cada caso de p
 -- Descripción: 
 - Datos de entrada: 
 - Resultado esperado: 
+
+### Caso de prueba 4: Nombre del caso de prueba
+-- Descripción: 
+- Datos de entrada: 
+- Resultado esperado: 
+
 
         
         
